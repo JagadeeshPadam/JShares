@@ -1,0 +1,77 @@
+# Node modules
+node_modules/
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Dependency directories
+jspm_packages/
+bower_components/
+
+# Production build outputs
+dist/
+build/
+out/
+
+# Environment files (for sensitive information)
+.env
+.env.local
+.env.*.local
+
+# Editor folders and files
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.swp
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.temp
+*.bak
+*.old
+*.swp
+*.swo
+
+# Python specific files
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pkl
+
+# Java files
+*.class
+*.jar
+*.war
+*.ear
+
+# Compiled binary files
+*.exe
+*.dll
+*.so
+*.dylib
+
+# Coverage reports
+coverage/
+*.lcov
+*.lcov.info
+
+# Test folders and reports
+tests/report/
+tests/results/
+
+# IDE folders (for Eclipse, IntelliJ, etc.)
+.project
+.classpath
+*.iml
